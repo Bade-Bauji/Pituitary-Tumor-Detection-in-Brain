@@ -30,7 +30,9 @@
 |Support Vector Machine|0.99|0.96|
 |Random Forest|1.00|0.97|
 |K-Nearest Neighbour|0.95|0.94|
-
+|Ridge Classifier|1.00|0.80|
+|Naive Bayes|0.62|0.58|
+|CNN|0.67|0.50|
+|Decision Tree|0.83|0.75|
 ### Overall, this code aims to classify brain tumor MRI images using four different classifiers and select the best classifier based on its performance on the testing set.
-
 ---
